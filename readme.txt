@@ -17,10 +17,10 @@ For now there are only two options: your username and the number of shots you wa
 
 [hcs jersey="galen" shots="12"]
 
-Should be pretty self explanatory. ;)
+Should be pretty self-explanatory. ;)
 
 
 =======================
 Questions or Comments
 =======================
-mail me: galen [at] galengidman [dot] com
+email me: galen [at] galengidman [dot] com
