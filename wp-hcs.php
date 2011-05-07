@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Half-Court Shot
+Plugin Name: Half-Court Shot
 Plugin URI: https://github.com/galengidman/WP-Half-Court-Shot
 Description: integrates <a href="http://www.mediahack.com/apps/half-court-shot">mediaHACK's Half-Court Shot jsApp</a> into WordPress via shortcode
 Version: 0.1
@@ -14,8 +14,6 @@ function hcs_handler($atts) {
 	extract(shortcode_atts(array(
 		"jersey" => "",
 		"shots" => "",
-		"default_styles" => true,
-		
 	), $atts));
 	
 	return '
@@ -27,4 +25,4 @@ function hcs_handler($atts) {
 		
 }
 
-add_shortcode('hcs', 'hcs_handler');
+add_shortcode('dribbble', 'hcs_handler');
