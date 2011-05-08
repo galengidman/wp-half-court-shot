@@ -15,7 +15,7 @@ Configuration
 =======================
 For now there are only two options: your username and the number of shots you want to return. Here's what it might look like for me...
 
-[hcs jersey="galen" shots="12"]
+[dribbble jersey="galen" shots="12"]
 
 Should be pretty self-explanatory. ;)
 
