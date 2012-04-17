@@ -1,7 +1,7 @@
 =======================
 Bio
 =======================
-WP Half-Court shot integrates mediaHACK's Half-Court Shot jsApp (https://github.com/galengidman/WP-Half-Court-Shot) into WordPress via shortcode.
+WP Half-Court shot integrates mediaHACK's Half-Court Shot jsApp (https://github.com/mediahack/Half-Court-Shot) into WordPress via shortcode.
 
 
 =======================
